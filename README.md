@@ -4,4 +4,7 @@
     adb tcp <PORT>
     adb connect <IP_ADDRESS>
     adb install <APK_PATH_FILE>
+
+    android list avd
+    emulator -avd <EMULATOR_NAME>  
 ```
